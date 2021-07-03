@@ -1,5 +1,7 @@
 import { BrowserRouter } from 'react-router-dom'
 
+import './config/ReactotronConfig'
+
 import { Provider } from 'react-redux'
 
 import GlobalStyle from './styles/global'
